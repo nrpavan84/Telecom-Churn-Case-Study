@@ -8,7 +8,7 @@ To reduce customer churn, telecom companies need to predict which customers are 
 
 In this project, we analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
 
-## upGrad Assignment
+## Assignment
 
 As part of my PG Diploma Data Science course from IIIT Bangalore, India, Telecom Case Study was one of the case studies that I worked on. 
 
