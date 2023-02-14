@@ -10,11 +10,11 @@ In this project, we analyse customer-level data of a leading telecom firm, build
 
 ## upGrad Assignment
 
-As part of my PG Diploma Data Science course from IIIT Bangalore, India via upGrad, Telecom Case Study was one of the case studies that I worked on. 
+As part of my PG Diploma Data Science course from IIIT Bangalore, India, Telecom Case Study was one of the case studies that I worked on. 
 
 Aim of this case study was to analyse customer-level data, build an interpretable model to identify the main indicators of churn and build 3 high performance models to identify customers at high risk of churn and recommend what model will work best in predicting if customers will churn or not.
 
 Files present:
 1. Telecom_Churn_Problem_Statement.pdf : Contains the Problem Overview, Business Objective, Data and steps taken for this case study
-2. Data_Dictionary_Telecom_Churn_Case_Study.xlsx : Data dictionary of the dataset provided by upGrad
+2. Data_Dictionary_Telecom_Churn_Case_Study.xlsx : Data dictionary of the dataset provided
 3. Telecom_Churn_Case_Study.ipynb : Jupyter Notebook
